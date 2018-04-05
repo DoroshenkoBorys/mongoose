@@ -1,0 +1,14 @@
+table {
+	background-color: lightgreen;
+	border-collapse: collapse;
+	width: 600px;
+}
+tr, td {
+	border: 2px solid grey;
+}
+.update {
+	background-color: green;
+}
+.delete {
+	background-color: red;
+}
